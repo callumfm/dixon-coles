@@ -15,8 +15,11 @@ This repo is a fast Python implementation of the Dixon-Coles model which could b
 ## Install
 
 ```bash
-pip install git+https://github.com/callumfm/dixon-coles
+uv add git+https://github.com/callumfm/dixon-coles
 ```
+
+`uv add` needs a uv project; to install into a plain environment use
+`pip install git+https://github.com/callumfm/dixon-coles`.
 
 The bundled Premier League data is not part of the installed package — see [Data](#data)
 to clone it or point at your own.
