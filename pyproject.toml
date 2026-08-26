@@ -1,0 +1,56 @@
+[project]
+name = "dixon-coles"
+version = "0.1.0"
+description = "Dixon-Coles team strength model."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Callum Macalister", email = "cfmacalister@googlemail.com" }]
+requires-python = ">=3.11"
+keywords = ["dixon-coles", "football", "soccer", "poisson", "forecasting", "fpl"]
+dependencies = [
+    "numba>=0.62.1",
+    "numpy>=1.26.0",
+    "scipy>=1.15.2",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.390",
+    "pytest>=8.0.0",
+    "ruff>=0.2.2",
+]
+docs = [
+    "mkdocs-material>=9.5.0",
+    "mkdocstrings[python]>=0.27.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/callumfm/dixon-coles"
+Documentation = "https://callumfm.github.io/dixon-coles/"
+Repository = "https://github.com/callumfm/dixon-coles"
+Issues = "https://github.com/callumfm/dixon-coles/issues"
+
+[build-system]
+requires = ["uv_build>=0.9.16,<0.10.0"]
+build-backend = "uv_build"
+
+[tool.pyright]
+typeCheckingMode = "basic"
+exclude = [".venv"]
+reportMissingTypeStubs = false
+
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "C4", "UP", "D"]
+ignore = ["E501", "D203", "D213"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["D"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["dixon_coles"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

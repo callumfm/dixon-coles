@@ -1,0 +1,381 @@
+date,home_team,away_team,home_score,away_score,gameweek,home_xg,away_xg
+2021-08-13,Brentford,Arsenal,2,0,1,1.76,0.96
+2021-08-14,Man Utd,Leeds,5,1,1,1.54,0.53
+2021-08-14,Burnley,Brighton,1,2,1,1.68,1.58
+2021-08-14,Chelsea,Crystal Palace,3,0,1,1.11,0.30
+2021-08-14,Everton,Southampton,3,1,1,2.23,0.54
+2021-08-14,Leicester,Wolves,1,0,1,0.62,1.24
+2021-08-14,Watford,Aston Villa,3,2,1,1.26,1.06
+2021-08-14,Norwich,Liverpool,0,3,1,1.25,1.67
+2021-08-15,Newcastle,West Ham,2,4,1,1.57,2.81
+2021-08-15,Spurs,Man City,1,0,1,0.99,1.97
+2021-08-21,Liverpool,Burnley,2,0,2,2.47,0.65
+2021-08-21,Aston Villa,Newcastle,2,0,2,1.11,0.59
+2021-08-21,Crystal Palace,Brentford,0,0,2,0.57,0.67
+2021-08-21,Leeds,Everton,2,2,2,0.90,1.74
+2021-08-21,Man City,Norwich,5,0,2,2.28,0.02
+2021-08-21,Brighton,Watford,2,0,2,1.66,0.38
+2021-08-22,Southampton,Man Utd,1,1,2,0.55,2.11
+2021-08-22,Wolves,Spurs,0,1,2,1.41,1.61
+2021-08-22,Arsenal,Chelsea,0,2,2,0.59,3.40
+2021-08-23,West Ham,Leicester,4,1,2,2.14,0.59
+2021-08-28,Man City,Arsenal,5,0,3,4.18,0.11
+2021-08-28,Aston Villa,Brentford,1,1,3,0.40,1.06
+2021-08-28,Brighton,Everton,0,2,3,0.66,1.45
+2021-08-28,Newcastle,Southampton,2,2,3,1.11,3.23
+2021-08-28,Norwich,Leicester,1,2,3,1.35,1.19
+2021-08-28,West Ham,Crystal Palace,2,2,3,1.35,1.57
+2021-08-28,Liverpool,Chelsea,1,1,3,1.95,0.54
+2021-08-29,Burnley,Leeds,1,1,3,1.60,1.42
+2021-08-29,Spurs,Watford,1,0,3,0.86,0.56
+2021-08-29,Wolves,Man Utd,0,1,3,1.68,0.88
+2021-09-11,Crystal Palace,Spurs,3,0,4,2.70,0.07
+2021-09-11,Arsenal,Norwich,1,0,4,2.51,0.54
+2021-09-11,Brentford,Brighton,0,1,4,0.68,0.27
+2021-09-11,Leicester,Man City,0,1,4,0.75,2.57
+2021-09-11,Man Utd,Newcastle,4,1,4,2.59,0.58
+2021-09-11,Southampton,West Ham,0,0,4,0.65,0.68
+2021-09-11,Watford,Wolves,0,2,4,0.17,2.39
+2021-09-11,Chelsea,Aston Villa,3,0,4,1.14,1.10
+2021-09-12,Leeds,Liverpool,0,3,4,0.61,4.11
+2021-09-13,Everton,Burnley,3,1,4,1.69,1.70
+2021-09-17,Newcastle,Leeds,1,1,5,1.10,1.34
+2021-09-18,Wolves,Brentford,0,2,5,0.96,2.18
+2021-09-18,Burnley,Arsenal,0,1,5,0.72,1.03
+2021-09-18,Liverpool,Crystal Palace,3,0,5,2.59,0.60
+2021-09-18,Man City,Southampton,0,0,5,1.14,0.46
+2021-09-18,Norwich,Watford,1,3,5,0.73,2.27
+2021-09-18,Aston Villa,Everton,3,0,5,0.73,0.71
+2021-09-19,Brighton,Leicester,2,1,5,1.38,1.17
+2021-09-19,West Ham,Man Utd,1,2,5,1.56,1.77
+2021-09-19,Spurs,Chelsea,0,3,5,0.66,2.42
+2021-09-25,Chelsea,Man City,0,1,6,0.18,1.58
+2021-09-25,Man Utd,Aston Villa,0,1,6,1.80,1.47
+2021-09-25,Everton,Norwich,2,0,6,2.12,0.75
+2021-09-25,Leeds,West Ham,1,2,6,1.12,1.86
+2021-09-25,Leicester,Burnley,2,2,6,2.02,0.40
+2021-09-25,Watford,Newcastle,1,1,6,0.84,2.36
+2021-09-25,Brentford,Liverpool,3,3,6,2.75,2.11
+2021-09-26,Southampton,Wolves,0,1,6,0.85,0.85
+2021-09-26,Arsenal,Spurs,3,1,6,1.35,0.92
+2021-09-27,Crystal Palace,Brighton,1,1,6,1.28,0.61
+2021-10-02,Man Utd,Everton,1,1,7,0.98,1.24
+2021-10-02,Burnley,Norwich,0,0,7,0.55,0.63
+2021-10-02,Chelsea,Southampton,3,1,7,3.54,1.43
+2021-10-02,Leeds,Watford,1,0,7,1.47,0.18
+2021-10-02,Wolves,Newcastle,2,1,7,1.08,0.81
+2021-10-02,Brighton,Arsenal,0,0,7,1.04,0.34
+2021-10-03,Crystal Palace,Leicester,2,2,7,1.09,0.98
+2021-10-03,Spurs,Aston Villa,2,1,7,1.67,1.00
+2021-10-03,West Ham,Brentford,1,2,7,1.28,1.22
+2021-10-03,Liverpool,Man City,2,2,7,0.89,0.97
+2021-10-16,Watford,Liverpool,0,5,8,0.28,3.42
+2021-10-16,Aston Villa,Wolves,2,3,8,1.13,2.05
+2021-10-16,Leicester,Man Utd,4,2,8,2.77,0.96
+2021-10-16,Man City,Burnley,2,0,8,2.02,1.01
+2021-10-16,Norwich,Brighton,0,0,8,1.08,1.10
+2021-10-16,Southampton,Leeds,1,0,8,1.71,0.42
+2021-10-16,Brentford,Chelsea,0,1,8,1.52,0.23
+2021-10-17,Everton,West Ham,0,1,8,0.80,1.90
+2021-10-17,Newcastle,Spurs,2,3,8,0.60,1.45
+2021-10-18,Arsenal,Crystal Palace,2,2,8,1.63,0.46
+2021-10-22,Arsenal,Aston Villa,3,1,9,3.27,1.32
+2021-10-23,Chelsea,Norwich,7,0,9,2.90,0.25
+2021-10-23,Crystal Palace,Newcastle,1,1,9,2.11,0.67
+2021-10-23,Everton,Watford,2,5,9,1.72,2.90
+2021-10-23,Leeds,Wolves,1,1,9,1.60,0.80
+2021-10-23,Southampton,Burnley,2,2,9,1.33,0.63
+2021-10-23,Brighton,Man City,1,4,9,1.09,3.34
+2021-10-24,Brentford,Leicester,1,2,9,1.09,0.94
+2021-10-24,West Ham,Spurs,1,0,9,1.62,0.63
+2021-10-24,Man Utd,Liverpool,0,5,9,1.27,3.78
+2021-10-30,Leicester,Arsenal,0,2,10,1.86,1.03
+2021-10-30,Burnley,Brentford,3,1,10,2.55,0.78
+2021-10-30,Liverpool,Brighton,2,2,10,1.31,1.41
+2021-10-30,Man City,Crystal Palace,0,2,10,0.61,0.98
+2021-10-30,Newcastle,Chelsea,0,3,10,0.15,2.02
+2021-10-30,Watford,Southampton,0,1,10,0.80,1.78
+2021-10-30,Spurs,Man Utd,0,3,10,1.08,1.30
+2021-10-31,Norwich,Leeds,1,2,10,0.62,1.09
+2021-10-31,Aston Villa,West Ham,1,4,10,0.64,2.49
+2021-11-01,Wolves,Everton,2,1,10,1.58,1.59
+2021-11-05,Southampton,Aston Villa,1,0,11,0.84,0.50
+2021-11-06,Man Utd,Man City,0,2,11,0.71,1.91
+2021-11-06,Brentford,Norwich,1,2,11,2.61,1.08
+2021-11-06,Chelsea,Burnley,1,1,11,2.81,0.63
+2021-11-06,Crystal Palace,Wolves,2,0,11,2.48,0.24
+2021-11-06,Brighton,Newcastle,1,1,11,1.34,0.21
+2021-11-07,Arsenal,Watford,1,0,11,1.39,0.46
+2021-11-07,Everton,Spurs,0,0,11,0.56,0.75
+2021-11-07,Leeds,Leicester,1,1,11,1.84,0.74
+2021-11-07,West Ham,Liverpool,3,2,11,1.17,1.36
+2021-11-20,Leicester,Chelsea,0,3,12,0.47,2.40
+2021-11-20,Aston Villa,Brighton,2,0,12,1.00,0.54
+2021-11-20,Burnley,Crystal Palace,3,3,12,0.97,1.63
+2021-11-20,Newcastle,Brentford,3,3,12,2.04,1.15
+2021-11-20,Norwich,Southampton,2,1,12,0.41,1.06
+2021-11-20,Watford,Man Utd,4,1,12,2.56,1.56
+2021-11-20,Wolves,West Ham,1,0,12,1.23,0.41
+2021-11-20,Liverpool,Arsenal,4,0,12,3.71,0.25
+2021-11-21,Man City,Everton,3,0,12,2.44,0.25
+2021-11-21,Spurs,Leeds,2,1,12,2.17,1.37
+2021-11-27,Arsenal,Newcastle,2,0,13,2.66,0.17
+2021-11-27,Crystal Palace,Aston Villa,1,2,13,0.90,0.42
+2021-11-27,Liverpool,Southampton,4,0,13,2.87,0.90
+2021-11-27,Norwich,Wolves,0,0,13,1.31,0.28
+2021-11-27,Brighton,Leeds,0,0,13,1.78,0.81
+2021-11-28,Brentford,Everton,1,0,13,1.12,0.90
+2021-11-28,Leicester,Watford,4,2,13,2.02,2.23
+2021-11-28,Man City,West Ham,2,1,13,2.54,0.16
+2021-11-28,Chelsea,Man Utd,1,1,13,2.19,0.53
+2021-11-30,Newcastle,Norwich,1,1,14,1.08,1.41
+2021-11-30,Leeds,Crystal Palace,1,0,14,1.85,0.66
+2021-12-01,Southampton,Leicester,2,2,14,1.79,1.35
+2021-12-01,Watford,Chelsea,1,2,14,0.93,0.85
+2021-12-01,West Ham,Brighton,1,1,14,1.07,1.18
+2021-12-01,Wolves,Burnley,0,0,14,0.67,0.18
+2021-12-01,Aston Villa,Man City,1,2,14,0.72,0.95
+2021-12-01,Everton,Liverpool,1,4,14,0.48,2.67
+2021-12-02,Spurs,Brentford,2,0,14,1.94,0.21
+2021-12-02,Man Utd,Arsenal,3,2,14,1.73,1.09
+2021-12-04,West Ham,Chelsea,3,2,15,1.89,1.28
+2021-12-04,Newcastle,Burnley,1,0,15,1.59,0.57
+2021-12-04,Southampton,Brighton,1,1,15,1.25,1.39
+2021-12-04,Wolves,Liverpool,0,1,15,0.09,2.26
+2021-12-04,Watford,Man City,1,3,15,0.63,3.77
+2021-12-05,Leeds,Brentford,2,2,15,1.33,1.12
+2021-12-05,Man Utd,Crystal Palace,1,0,15,0.81,0.49
+2021-12-05,Spurs,Norwich,3,0,15,1.88,1.00
+2021-12-05,Aston Villa,Leicester,2,1,15,1.73,0.92
+2021-12-06,Everton,Arsenal,2,1,15,0.99,0.99
+2021-12-10,Brentford,Watford,2,1,16,1.71,0.52
+2021-12-11,Man City,Wolves,1,0,16,2.80,0.07
+2021-12-11,Arsenal,Southampton,3,0,16,1.95,0.47
+2021-12-11,Chelsea,Leeds,3,2,16,2.57,1.62
+2021-12-11,Liverpool,Aston Villa,1,0,16,2.53,0.13
+2021-12-11,Norwich,Man Utd,0,1,16,0.92,1.96
+2021-12-12,Burnley,West Ham,0,0,16,0.51,0.93
+2021-12-12,Leicester,Newcastle,4,0,16,1.92,0.48
+2021-12-12,Crystal Palace,Everton,3,1,16,1.96,1.19
+2021-12-14,Norwich,Aston Villa,0,2,17,0.47,1.83
+2021-12-14,Man City,Leeds,7,0,17,3.10,0.21
+2021-12-15,Brighton,Wolves,0,1,17,1.12,1.04
+2021-12-15,Crystal Palace,Southampton,2,2,17,1.39,0.58
+2021-12-15,Arsenal,West Ham,2,0,17,2.63,0.32
+2021-12-16,Chelsea,Everton,1,1,17,2.99,0.59
+2021-12-16,Liverpool,Newcastle,3,1,17,2.75,0.19
+2021-12-18,Leeds,Arsenal,1,4,18,1.23,3.45
+2021-12-19,Newcastle,Man City,0,4,18,0.16,3.41
+2021-12-19,Wolves,Chelsea,0,0,18,0.30,0.74
+2021-12-19,Spurs,Liverpool,2,2,18,2.61,1.45
+2021-12-26,Man City,Leicester,6,3,19,3.58,2.28
+2021-12-26,Norwich,Arsenal,0,5,19,0.14,2.69
+2021-12-26,Spurs,Crystal Palace,3,0,19,2.64,0.17
+2021-12-26,West Ham,Southampton,2,3,19,1.44,1.27
+2021-12-26,Aston Villa,Chelsea,1,3,19,0.44,2.64
+2021-12-26,Brighton,Brentford,2,0,19,0.88,1.03
+2021-12-27,Newcastle,Man Utd,1,1,19,1.18,1.64
+2021-12-28,Crystal Palace,Norwich,3,0,20,2.23,0.56
+2021-12-28,Southampton,Spurs,1,1,20,0.33,2.63
+2021-12-28,Watford,West Ham,1,4,20,0.95,2.66
+2021-12-28,Leicester,Liverpool,1,0,20,0.58,2.55
+2021-12-29,Chelsea,Brighton,1,1,20,0.71,0.74
+2021-12-29,Brentford,Man City,0,1,20,0.22,0.95
+2021-12-30,Man Utd,Burnley,3,1,20,1.69,0.81
+2022-01-01,Arsenal,Man City,1,2,21,0.78,1.82
+2022-01-01,Watford,Spurs,0,1,21,0.28,1.81
+2022-01-01,Crystal Palace,West Ham,2,3,21,2.52,2.09
+2022-01-02,Brentford,Aston Villa,2,1,21,0.47,1.06
+2022-01-02,Everton,Brighton,2,3,21,1.71,1.39
+2022-01-02,Leeds,Burnley,3,1,21,1.91,0.90
+2022-01-02,Chelsea,Liverpool,2,2,21,1.30,1.67
+2022-01-03,Man Utd,Wolves,0,1,21,0.72,0.79
+2022-01-11,Southampton,Brentford,4,1,21,1.49,0.58
+2022-01-12,West Ham,Norwich,2,0,21,2.70,0.32
+2022-01-14,Brighton,Crystal Palace,1,1,22,2.04,0.48
+2022-01-15,Man City,Chelsea,1,0,22,0.84,0.57
+2022-01-15,Newcastle,Watford,1,1,22,0.97,1.40
+2022-01-15,Norwich,Everton,2,1,22,0.94,0.51
+2022-01-15,Wolves,Southampton,3,1,22,2.15,0.86
+2022-01-15,Aston Villa,Man Utd,2,2,22,1.71,1.27
+2022-01-16,Liverpool,Brentford,3,0,22,3.26,0.35
+2022-01-16,West Ham,Leeds,2,3,22,2.20,2.12
+2022-01-18,Brighton,Chelsea,1,1,22,0.70,0.54
+2022-01-19,Leicester,Spurs,2,3,22,1.82,3.97
+2022-01-19,Brentford,Man Utd,1,3,22,1.94,1.93
+2022-01-21,Watford,Norwich,0,3,23,1.22,0.86
+2022-01-22,Everton,Aston Villa,0,1,23,1.16,0.80
+2022-01-22,Brentford,Wolves,1,2,23,0.69,0.20
+2022-01-22,Leeds,Newcastle,0,1,23,1.06,1.08
+2022-01-22,Man Utd,West Ham,1,0,23,1.64,0.22
+2022-01-22,Southampton,Man City,1,1,23,0.94,1.52
+2022-01-23,Arsenal,Burnley,0,0,23,1.27,0.36
+2022-01-23,Crystal Palace,Liverpool,1,3,23,1.52,1.40
+2022-01-23,Leicester,Brighton,1,1,23,1.60,1.12
+2022-01-23,Chelsea,Spurs,2,0,23,0.97,0.31
+2022-02-05,Burnley,Watford,0,0,23,0.72,0.87
+2022-02-08,Newcastle,Everton,3,1,24,2.51,0.77
+2022-02-08,West Ham,Watford,1,0,24,0.85,0.31
+2022-02-08,Burnley,Man Utd,1,1,24,0.72,1.71
+2022-02-09,Man City,Brentford,2,0,24,1.85,0.43
+2022-02-09,Norwich,Crystal Palace,1,1,24,0.28,1.15
+2022-02-09,Spurs,Southampton,2,3,24,1.63,1.62
+2022-02-09,Aston Villa,Leeds,3,3,24,1.40,2.36
+2022-02-10,Liverpool,Leicester,2,0,24,2.55,0.51
+2022-02-10,Wolves,Arsenal,0,1,24,0.60,1.36
+2022-02-12,Man Utd,Southampton,1,1,25,2.80,0.63
+2022-02-12,Brentford,Crystal Palace,0,0,25,1.85,0.47
+2022-02-12,Everton,Leeds,3,0,25,2.42,0.23
+2022-02-12,Watford,Brighton,0,2,25,0.50,1.69
+2022-02-12,Norwich,Man City,0,4,25,0.33,4.16
+2022-02-13,Burnley,Liverpool,0,1,25,1.08,1.83
+2022-02-13,Newcastle,Aston Villa,1,0,25,0.49,0.43
+2022-02-13,Spurs,Wolves,0,2,25,0.78,1.75
+2022-02-13,Leicester,West Ham,2,2,25,1.31,0.70
+2022-02-15,Man Utd,Brighton,2,0,25,2.57,1.18
+2022-02-19,West Ham,Newcastle,1,1,26,0.79,0.87
+2022-02-19,Arsenal,Brentford,2,1,26,1.42,0.60
+2022-02-19,Aston Villa,Watford,0,1,26,0.96,1.70
+2022-02-19,Brighton,Burnley,0,3,26,0.42,0.77
+2022-02-19,Crystal Palace,Chelsea,0,1,26,0.58,1.05
+2022-02-19,Liverpool,Norwich,3,1,26,2.95,0.63
+2022-02-19,Southampton,Everton,2,0,26,2.55,0.19
+2022-02-19,Man City,Spurs,2,3,26,2.17,1.87
+2022-02-20,Leeds,Man Utd,2,4,26,1.63,2.44
+2022-02-20,Wolves,Leicester,2,1,26,0.44,1.45
+2022-02-23,Burnley,Spurs,1,0,26,1.45,0.65
+2022-02-23,Watford,Crystal Palace,1,4,26,1.61,0.76
+2022-02-23,Liverpool,Leeds,6,0,26,4.98,0.13
+2022-02-24,Arsenal,Wolves,2,1,26,2.35,1.04
+2022-02-25,Southampton,Norwich,2,0,27,2.89,0.40
+2022-02-26,Leeds,Spurs,0,4,27,1.77,2.31
+2022-02-26,Brentford,Newcastle,0,2,27,0.46,2.11
+2022-02-26,Crystal Palace,Burnley,1,1,27,0.97,0.24
+2022-02-26,Man Utd,Watford,0,0,27,2.26,0.41
+2022-02-26,Brighton,Aston Villa,0,2,27,0.59,1.22
+2022-02-26,Everton,Man City,0,1,27,0.72,1.81
+2022-02-27,West Ham,Wolves,1,0,27,1.52,0.83
+2022-03-01,Burnley,Leicester,0,2,27,0.97,1.68
+2022-03-05,Leicester,Leeds,1,0,28,0.34,2.00
+2022-03-05,Aston Villa,Southampton,4,0,28,2.67,1.24
+2022-03-05,Burnley,Chelsea,0,4,28,0.79,2.14
+2022-03-05,Newcastle,Brighton,2,1,28,1.48,1.54
+2022-03-05,Norwich,Brentford,1,3,28,0.72,2.08
+2022-03-05,Wolves,Crystal Palace,0,2,28,0.66,2.37
+2022-03-05,Liverpool,West Ham,1,0,28,2.05,1.25
+2022-03-06,Watford,Arsenal,2,3,28,1.21,0.94
+2022-03-06,Man City,Man Utd,4,1,28,2.56,0.34
+2022-03-07,Spurs,Everton,5,0,28,3.03,0.19
+2022-03-10,Norwich,Chelsea,1,3,28,0.90,1.99
+2022-03-10,Southampton,Newcastle,1,2,28,1.68,0.76
+2022-03-10,Wolves,Watford,4,0,28,1.45,0.47
+2022-03-10,Leeds,Aston Villa,0,3,28,0.18,1.19
+2022-03-12,Brighton,Liverpool,0,2,29,0.59,2.32
+2022-03-12,Brentford,Burnley,2,0,29,1.70,0.77
+2022-03-12,Man Utd,Spurs,3,2,29,0.95,1.52
+2022-03-13,Chelsea,Newcastle,1,0,29,1.00,0.23
+2022-03-13,Everton,Wolves,0,1,29,0.37,0.67
+2022-03-13,Leeds,Norwich,2,1,29,2.91,1.31
+2022-03-13,Southampton,Watford,1,2,29,1.17,1.21
+2022-03-13,West Ham,Aston Villa,2,1,29,1.48,0.99
+2022-03-13,Arsenal,Leicester,2,0,29,2.74,0.51
+2022-03-14,Crystal Palace,Man City,0,0,29,0.44,1.91
+2022-03-16,Brighton,Spurs,0,2,29,0.97,1.92
+2022-03-16,Arsenal,Liverpool,0,2,29,0.50,1.19
+2022-03-17,Everton,Newcastle,1,0,29,0.66,0.71
+2022-03-18,Wolves,Leeds,2,3,30,1.16,2.64
+2022-03-19,Aston Villa,Arsenal,0,1,30,0.29,1.07
+2022-03-20,Leicester,Brentford,2,1,30,1.20,1.61
+2022-03-20,Spurs,West Ham,3,1,30,2.38,0.60
+2022-04-02,Liverpool,Watford,2,0,31,2.09,0.70
+2022-04-02,Brighton,Norwich,0,0,31,2.23,0.46
+2022-04-02,Burnley,Man City,0,2,31,0.06,1.51
+2022-04-02,Chelsea,Brentford,1,4,31,1.21,2.28
+2022-04-02,Leeds,Southampton,1,1,31,1.41,1.93
+2022-04-02,Wolves,Aston Villa,2,1,31,1.52,1.79
+2022-04-02,Man Utd,Leicester,1,1,31,0.84,1.01
+2022-04-03,West Ham,Everton,2,1,31,1.40,0.61
+2022-04-03,Spurs,Newcastle,5,1,31,3.37,0.50
+2022-04-04,Crystal Palace,Arsenal,3,0,31,1.31,0.98
+2022-04-06,Burnley,Everton,3,2,31,2.10,2.16
+2022-04-08,Newcastle,Wolves,1,0,32,1.34,0.29
+2022-04-09,Everton,Man Utd,1,0,32,0.33,0.71
+2022-04-09,Arsenal,Brighton,1,2,32,2.20,0.56
+2022-04-09,Southampton,Chelsea,0,6,32,0.53,4.11
+2022-04-09,Watford,Leeds,0,3,32,1.00,0.84
+2022-04-09,Aston Villa,Spurs,0,4,32,1.39,0.92
+2022-04-10,Brentford,West Ham,2,0,32,1.73,0.23
+2022-04-10,Leicester,Crystal Palace,2,1,32,0.82,1.43
+2022-04-10,Norwich,Burnley,2,0,32,1.56,1.35
+2022-04-10,Man City,Liverpool,2,2,32,1.26,1.21
+2022-04-16,Spurs,Brighton,0,1,33,0.55,0.66
+2022-04-16,Man Utd,Norwich,3,2,33,1.56,1.68
+2022-04-16,Southampton,Arsenal,1,0,33,0.97,1.26
+2022-04-16,Watford,Brentford,1,2,33,1.41,1.99
+2022-04-17,Newcastle,Leicester,2,1,33,2.38,0.51
+2022-04-17,West Ham,Burnley,1,1,33,2.61,1.76
+2022-04-19,Liverpool,Man Utd,4,0,33,2.11,0.10
+2022-04-20,Chelsea,Arsenal,2,4,33,0.55,1.75
+2022-04-20,Everton,Leicester,1,1,33,1.58,0.73
+2022-04-20,Newcastle,Crystal Palace,1,0,33,0.72,0.40
+2022-04-20,Man City,Brighton,3,0,33,1.43,0.11
+2022-04-21,Burnley,Southampton,2,0,33,2.01,1.23
+2022-04-23,Arsenal,Man Utd,3,1,34,2.38,1.91
+2022-04-23,Leicester,Aston Villa,0,0,34,0.22,0.55
+2022-04-23,Man City,Watford,5,1,34,3.44,0.40
+2022-04-23,Norwich,Newcastle,0,3,34,0.61,1.75
+2022-04-23,Brentford,Spurs,0,0,34,1.23,0.48
+2022-04-24,Brighton,Southampton,2,2,34,1.75,0.87
+2022-04-24,Burnley,Wolves,1,0,34,1.19,0.55
+2022-04-24,Chelsea,West Ham,1,0,34,2.20,0.36
+2022-04-24,Liverpool,Everton,2,0,34,1.59,0.40
+2022-04-25,Crystal Palace,Leeds,0,0,34,1.51,0.35
+2022-04-28,Man Utd,Chelsea,1,1,34,0.58,2.31
+2022-04-30,Newcastle,Liverpool,0,1,35,0.11,2.56
+2022-04-30,Aston Villa,Norwich,2,0,35,2.16,0.33
+2022-04-30,Southampton,Crystal Palace,1,2,35,0.61,0.71
+2022-04-30,Watford,Burnley,1,2,35,0.73,1.28
+2022-04-30,Wolves,Brighton,0,3,35,0.49,2.72
+2022-04-30,Leeds,Man City,0,4,35,0.97,2.82
+2022-05-01,Everton,Chelsea,1,0,35,1.04,1.13
+2022-05-01,Spurs,Leicester,3,1,35,1.55,0.26
+2022-05-01,West Ham,Arsenal,1,2,35,0.42,0.90
+2022-05-02,Man Utd,Brentford,3,0,35,1.72,0.64
+2022-05-07,Brentford,Southampton,3,0,36,3.44,0.92
+2022-05-07,Burnley,Aston Villa,1,3,36,1.22,1.69
+2022-05-07,Chelsea,Wolves,2,2,36,1.70,1.57
+2022-05-07,Crystal Palace,Watford,1,0,36,2.33,0.24
+2022-05-07,Brighton,Man Utd,4,0,36,2.64,0.87
+2022-05-07,Liverpool,Spurs,1,1,36,0.98,0.92
+2022-05-08,Arsenal,Leeds,2,1,36,2.54,0.65
+2022-05-08,Leicester,Everton,1,2,36,1.38,1.45
+2022-05-08,Norwich,West Ham,0,4,36,0.73,3.05
+2022-05-08,Man City,Newcastle,5,0,36,3.79,0.93
+2022-05-10,Aston Villa,Liverpool,1,2,36,1.35,1.64
+2022-05-11,Leeds,Chelsea,0,3,36,0.47,1.37
+2022-05-11,Leicester,Norwich,3,0,36,2.40,1.14
+2022-05-11,Watford,Everton,0,0,36,0.22,0.76
+2022-05-11,Wolves,Man City,1,5,36,0.38,3.17
+2022-05-12,Spurs,Arsenal,3,0,36,3.20,0.36
+2022-05-15,Spurs,Burnley,1,0,37,2.24,0.59
+2022-05-15,Aston Villa,Crystal Palace,1,1,37,0.75,1.30
+2022-05-15,Leeds,Brighton,1,1,37,2.08,2.11
+2022-05-15,Watford,Leicester,1,5,37,2.42,2.12
+2022-05-15,West Ham,Man City,2,2,37,0.94,2.01
+2022-05-15,Wolves,Norwich,1,1,37,0.93,1.43
+2022-05-15,Everton,Brentford,2,3,37,2.52,1.70
+2022-05-16,Newcastle,Arsenal,2,0,37,1.57,0.46
+2022-05-17,Southampton,Liverpool,1,2,37,0.11,1.11
+2022-05-19,Everton,Crystal Palace,3,2,37,0.76,1.50
+2022-05-19,Aston Villa,Burnley,1,1,37,0.93,1.52
+2022-05-19,Chelsea,Leicester,1,1,37,1.51,0.04
+2022-05-22,Arsenal,Everton,5,1,38,4.07,1.02
+2022-05-22,Brentford,Leeds,1,2,38,0.79,1.38
+2022-05-22,Brighton,West Ham,3,1,38,1.57,0.25
+2022-05-22,Burnley,Newcastle,1,2,38,1.39,1.63
+2022-05-22,Chelsea,Watford,2,1,38,2.42,0.54
+2022-05-22,Crystal Palace,Man Utd,1,0,38,0.33,0.73
+2022-05-22,Leicester,Southampton,4,1,38,3.20,0.98
+2022-05-22,Liverpool,Wolves,3,1,38,2.99,1.04
+2022-05-22,Man City,Aston Villa,3,2,38,3.10,0.23
+2022-05-22,Norwich,Spurs,0,5,38,0.29,3.57

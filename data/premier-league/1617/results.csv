@@ -1,0 +1,381 @@
+date,home_team,away_team,home_score,away_score,gameweek,home_xg,away_xg
+2017-05-21,Arsenal,Everton,3,1,38,3.13,1.76
+2017-05-21,Burnley,West Ham,1,2,38,1.60,1.56
+2017-05-21,Chelsea,Sunderland,5,1,38,2.56,0.65
+2017-05-21,Hull,Spurs,1,7,38,0.76,3.64
+2017-05-21,Leicester,Bournemouth,1,1,38,2.29,0.81
+2017-05-21,Liverpool,Middlesbrough,3,0,38,2.03,0.84
+2017-05-21,Man Utd,Crystal Palace,2,0,38,0.97,0.28
+2017-05-21,Southampton,Stoke,0,1,38,1.27,0.92
+2017-05-21,Swansea,West Brom,2,1,38,1.63,1.50
+2017-05-21,Watford,Man City,0,5,38,0.77,3.05
+2017-05-18,Leicester,Spurs,1,6,37,0.68,2.48
+2017-05-17,Southampton,Man Utd,0,0,37,1.56,0.43
+2017-05-16,Arsenal,Sunderland,2,0,37,3.59,0.25
+2017-05-16,Man City,West Brom,3,1,37,2.41,0.36
+2017-05-15,Chelsea,Watford,4,3,37,2.48,0.83
+2017-05-14,Crystal Palace,Hull,4,0,37,2.55,0.48
+2017-05-14,West Ham,Liverpool,0,4,37,0.97,3.07
+2017-05-14,Spurs,Man Utd,2,1,37,1.97,0.97
+2017-05-13,Man City,Leicester,2,1,37,1.86,1.52
+2017-05-13,Bournemouth,Burnley,2,1,37,1.45,1.08
+2017-05-13,Middlesbrough,Southampton,1,2,37,1.24,1.43
+2017-05-13,Sunderland,Swansea,0,2,37,0.97,0.32
+2017-05-13,Stoke,Arsenal,1,4,37,1.22,2.46
+2017-05-12,Everton,Watford,1,0,37,1.06,1.45
+2017-05-12,West Brom,Chelsea,0,1,37,0.49,1.65
+2017-05-10,Southampton,Arsenal,0,2,36,1.17,1.27
+2017-05-08,Chelsea,Middlesbrough,3,0,36,2.13,0.07
+2017-05-07,Liverpool,Southampton,0,0,36,1.27,0.17
+2017-05-07,Arsenal,Man Utd,2,0,36,0.97,0.54
+2017-05-06,Man City,Crystal Palace,5,0,36,2.52,0.23
+2017-05-06,Bournemouth,Stoke,2,2,36,1.22,2.15
+2017-05-06,Burnley,West Brom,2,2,36,1.02,0.77
+2017-05-06,Hull,Sunderland,0,2,36,1.14,1.83
+2017-05-06,Leicester,Watford,3,0,36,0.94,0.48
+2017-05-06,Swansea,Everton,1,0,36,1.96,0.25
+2017-05-05,West Ham,Spurs,1,0,36,2.07,0.42
+2017-05-01,Watford,Liverpool,0,1,35,0.41,0.52
+2017-04-30,Man Utd,Swansea,1,1,35,1.86,0.73
+2017-04-30,Everton,Chelsea,0,3,35,0.64,1.70
+2017-04-30,Middlesbrough,Man City,2,2,35,1.10,2.90
+2017-04-30,Spurs,Arsenal,2,0,35,3.23,0.55
+2017-04-29,Southampton,Hull,0,0,35,1.17,0.44
+2017-04-29,Stoke,West Ham,0,0,35,1.27,0.61
+2017-04-29,Sunderland,Bournemouth,0,1,35,1.56,1.43
+2017-04-29,West Brom,Leicester,0,1,35,0.76,0.53
+2017-04-29,Crystal Palace,Burnley,0,2,35,0.59,1.30
+2017-04-27,Man City,Man Utd,0,0,34,1.32,0.39
+2017-04-26,Arsenal,Leicester,1,0,34,0.38,0.56
+2017-04-26,Middlesbrough,Sunderland,1,0,34,0.77,0.42
+2017-04-26,Crystal Palace,Spurs,0,1,34,0.30,0.94
+2017-04-25,Chelsea,Southampton,4,2,34,1.35,1.24
+2017-04-23,Burnley,Man Utd,0,2,34,0.32,2.10
+2017-04-23,Liverpool,Crystal Palace,1,2,34,0.84,1.14
+2017-04-22,Bournemouth,Middlesbrough,4,0,34,3.06,0.19
+2017-04-22,Hull,Watford,2,0,34,1.33,1.08
+2017-04-22,Swansea,Stoke,2,0,34,0.44,1.58
+2017-04-22,West Ham,Everton,0,0,34,0.62,0.10
+2017-04-17,Middlesbrough,Arsenal,1,2,33,1.61,1.00
+2017-04-16,West Brom,Liverpool,0,1,33,0.55,1.22
+2017-04-16,Man Utd,Chelsea,2,0,33,0.75,0.12
+2017-04-15,Spurs,Bournemouth,4,0,33,3.07,0.20
+2017-04-15,Crystal Palace,Leicester,2,2,33,1.57,0.44
+2017-04-15,Everton,Burnley,3,1,33,1.56,1.07
+2017-04-15,Stoke,Hull,3,1,33,1.89,1.10
+2017-04-15,Sunderland,West Ham,2,2,33,1.07,1.33
+2017-04-15,Watford,Swansea,1,0,33,1.14,0.60
+2017-04-15,Southampton,Man City,0,3,33,0.58,2.56
+2017-04-10,Crystal Palace,Arsenal,3,0,32,2.02,0.41
+2017-04-09,Sunderland,Man Utd,0,3,32,0.91,1.58
+2017-04-09,Everton,Leicester,4,2,32,2.47,0.78
+2017-04-08,Spurs,Watford,4,0,32,1.11,0.35
+2017-04-08,Man City,Hull,3,1,32,2.18,0.33
+2017-04-08,Middlesbrough,Burnley,0,0,32,0.64,0.76
+2017-04-08,Stoke,Liverpool,1,2,32,2.00,0.96
+2017-04-08,West Brom,Southampton,0,1,32,1.89,0.85
+2017-04-08,West Ham,Swansea,1,0,32,1.13,0.29
+2017-04-08,Bournemouth,Chelsea,1,3,32,0.36,1.42
+2017-04-05,Arsenal,West Ham,3,0,31,2.02,0.28
+2017-04-05,Hull,Middlesbrough,4,2,31,2.09,1.22
+2017-04-05,Southampton,Crystal Palace,3,1,31,3.12,1.62
+2017-04-05,Swansea,Spurs,1,3,31,0.82,2.08
+2017-04-05,Chelsea,Man City,2,1,31,1.28,2.11
+2017-04-05,Liverpool,Bournemouth,2,2,31,2.03,1.23
+2017-04-04,Burnley,Stoke,1,0,31,0.33,1.10
+2017-04-04,Leicester,Sunderland,2,0,31,0.87,0.66
+2017-04-04,Watford,West Brom,2,0,31,0.65,1.38
+2017-04-04,Man Utd,Everton,1,1,31,1.56,0.55
+2017-04-02,Swansea,Middlesbrough,0,0,30,0.60,0.70
+2017-04-02,Arsenal,Man City,2,2,30,0.69,1.31
+2017-04-01,Liverpool,Everton,3,1,30,0.58,1.35
+2017-04-01,Burnley,Spurs,0,2,30,0.42,2.21
+2017-04-01,Chelsea,Crystal Palace,1,2,30,2.96,1.47
+2017-04-01,Hull,West Ham,2,1,30,0.73,1.16
+2017-04-01,Leicester,Stoke,2,0,30,1.85,1.28
+2017-04-01,Man Utd,West Brom,0,0,30,0.92,0.19
+2017-04-01,Watford,Sunderland,1,0,30,1.83,0.33
+2017-04-01,Southampton,Bournemouth,0,0,30,0.94,1.93
+2017-03-19,Middlesbrough,Man Utd,1,3,29,1.02,2.31
+2017-03-19,Spurs,Southampton,2,1,29,1.54,0.79
+2017-03-19,Man City,Liverpool,1,1,29,2.39,1.81
+2017-03-18,West Brom,Arsenal,3,1,29,1.98,0.93
+2017-03-18,Crystal Palace,Watford,1,0,29,0.35,0.18
+2017-03-18,Everton,Hull,4,0,29,2.46,0.49
+2017-03-18,Stoke,Chelsea,1,2,29,0.89,1.83
+2017-03-18,Sunderland,Burnley,0,0,29,0.97,1.11
+2017-03-18,West Ham,Leicester,2,3,29,2.17,2.03
+2017-03-18,Bournemouth,Swansea,2,0,29,0.94,0.35
+2017-03-12,Liverpool,Burnley,2,1,28,0.90,0.78
+2017-03-11,Bournemouth,West Ham,3,2,28,3.44,1.17
+2017-03-11,Everton,West Brom,3,0,28,2.03,0.12
+2017-03-11,Hull,Swansea,2,1,28,1.86,1.35
+2017-03-08,Man City,Stoke,0,0,27,1.22,0.32
+2017-03-06,West Ham,Chelsea,1,2,27,0.42,1.88
+2017-03-05,Spurs,Everton,3,2,27,1.59,0.76
+2017-03-05,Sunderland,Man City,0,2,27,0.69,2.32
+2017-03-04,Man Utd,Bournemouth,1,1,27,2.37,0.76
+2017-03-04,Leicester,Hull,3,1,27,1.69,1.05
+2017-03-04,Stoke,Middlesbrough,2,0,27,2.78,0.26
+2017-03-04,Swansea,Burnley,3,2,27,1.35,0.87
+2017-03-04,Watford,Southampton,3,4,27,1.31,1.25
+2017-03-04,West Brom,Crystal Palace,0,2,27,0.35,1.30
+2017-03-04,Liverpool,Arsenal,3,1,27,2.53,0.68
+2017-02-27,Leicester,Liverpool,3,1,26,1.45,0.74
+2017-02-26,Spurs,Stoke,4,0,26,1.77,0.69
+2017-02-25,Chelsea,Swansea,3,1,26,1.15,0.26
+2017-02-25,Crystal Palace,Middlesbrough,1,0,26,0.76,0.77
+2017-02-25,Everton,Sunderland,2,0,26,1.59,0.47
+2017-02-25,Hull,Burnley,1,1,26,1.49,0.44
+2017-02-25,West Brom,Bournemouth,2,1,26,1.51,1.15
+2017-02-25,Watford,West Ham,1,1,26,1.13,1.38
+2017-02-13,Bournemouth,Man City,0,2,25,0.14,2.76
+2017-02-12,Burnley,Chelsea,1,1,25,0.85,0.75
+2017-02-12,Swansea,Leicester,2,0,25,0.65,0.63
+2017-02-11,Arsenal,Hull,2,0,25,2.92,0.44
+2017-02-11,Man Utd,Watford,2,0,25,2.46,0.60
+2017-02-11,Middlesbrough,Everton,0,0,25,0.61,0.78
+2017-02-11,Stoke,Crystal Palace,1,0,25,0.67,0.19
+2017-02-11,Sunderland,Southampton,0,4,25,0.18,1.61
+2017-02-11,West Ham,West Brom,2,2,25,1.10,0.72
+2017-02-11,Liverpool,Spurs,2,0,25,2.22,0.58
+2017-02-05,Man City,Swansea,2,1,24,2.69,0.11
+2017-02-05,Leicester,Man Utd,0,3,24,0.46,1.86
+2017-02-04,Chelsea,Arsenal,3,1,24,1.83,0.89
+2017-02-04,Crystal Palace,Sunderland,0,4,24,2.30,0.78
+2017-02-04,Everton,Bournemouth,6,3,24,2.58,2.01
+2017-02-04,Hull,Liverpool,2,0,24,1.76,1.05
+2017-02-04,Southampton,West Ham,1,3,24,0.99,0.86
+2017-02-04,Watford,Burnley,2,1,24,1.55,1.38
+2017-02-04,West Brom,Stoke,1,0,24,1.73,1.04
+2017-02-04,Spurs,Middlesbrough,1,0,24,1.96,0.47
+2017-02-01,West Ham,Man City,0,4,23,0.46,2.49
+2017-02-01,Man Utd,Hull,0,0,23,1.38,0.37
+2017-02-01,Stoke,Everton,1,1,23,1.62,0.81
+2017-01-31,Arsenal,Watford,1,2,23,1.01,0.86
+2017-01-31,Bournemouth,Crystal Palace,0,2,23,0.30,1.50
+2017-01-31,Burnley,Leicester,1,0,23,1.71,0.72
+2017-01-31,Middlesbrough,West Brom,1,1,23,1.10,1.17
+2017-01-31,Sunderland,Spurs,0,0,23,0.21,0.64
+2017-01-31,Swansea,Southampton,2,1,23,0.71,0.85
+2017-01-31,Liverpool,Chelsea,1,1,23,1.13,1.00
+2017-01-22,Southampton,Leicester,3,0,22,2.34,0.87
+2017-01-22,Arsenal,Burnley,2,1,22,1.74,1.21
+2017-01-22,Chelsea,Hull,2,0,22,1.38,0.29
+2017-01-21,Liverpool,Swansea,2,3,22,1.16,1.50
+2017-01-21,Bournemouth,Watford,2,2,22,1.07,1.02
+2017-01-21,Crystal Palace,Everton,0,1,22,0.43,0.89
+2017-01-21,Middlesbrough,West Ham,1,3,22,0.90,2.48
+2017-01-21,Stoke,Man Utd,1,1,22,0.33,1.63
+2017-01-21,West Brom,Sunderland,2,0,22,1.24,0.41
+2017-01-21,Man City,Spurs,2,2,22,2.36,1.05
+2017-01-15,Everton,Man City,4,0,21,0.54,0.53
+2017-01-15,Man Utd,Liverpool,1,1,21,0.96,1.37
+2017-01-14,Spurs,West Brom,4,0,21,2.48,0.15
+2017-01-14,Burnley,Southampton,1,0,21,0.43,0.90
+2017-01-14,Hull,Bournemouth,3,1,21,1.11,1.34
+2017-01-14,Sunderland,Stoke,1,3,21,1.06,1.15
+2017-01-14,Swansea,Arsenal,0,4,21,0.46,2.17
+2017-01-14,Watford,Middlesbrough,0,0,21,0.78,0.30
+2017-01-14,West Ham,Crystal Palace,3,0,21,1.61,0.99
+2017-01-14,Leicester,Chelsea,0,3,21,0.17,0.69
+2017-01-04,Spurs,Chelsea,2,0,20,0.94,0.85
+2017-01-03,Bournemouth,Arsenal,3,3,20,1.46,1.05
+2017-01-03,Crystal Palace,Swansea,1,2,20,0.31,1.11
+2017-01-03,Stoke,Watford,2,0,20,1.73,0.48
+2017-01-02,Middlesbrough,Leicester,0,0,20,0.65,0.45
+2017-01-02,Everton,Southampton,3,0,20,2.20,0.94
+2017-01-02,Man City,Burnley,2,1,20,0.58,0.60
+2017-01-02,Sunderland,Liverpool,2,2,20,1.79,2.18
+2017-01-02,West Brom,Hull,3,1,20,0.83,0.93
+2017-01-02,West Ham,Man Utd,0,2,20,0.75,1.54
+2017-01-01,Watford,Spurs,1,4,19,1.18,2.86
+2017-01-01,Arsenal,Crystal Palace,2,0,19,1.56,0.21
+2016-12-31,Burnley,Sunderland,4,1,19,2.55,0.44
+2016-12-31,Chelsea,Stoke,4,2,19,1.82,0.80
+2016-12-31,Leicester,West Ham,1,0,19,1.04,1.48
+2016-12-31,Man Utd,Middlesbrough,2,1,19,2.37,0.60
+2016-12-31,Southampton,West Brom,1,2,19,0.35,0.62
+2016-12-31,Swansea,Bournemouth,0,3,19,0.48,2.28
+2016-12-31,Liverpool,Man City,1,0,19,0.24,0.33
+2016-12-30,Hull,Everton,2,2,19,0.80,1.19
+2016-12-28,Southampton,Spurs,1,4,18,0.38,1.51
+2016-12-27,Liverpool,Stoke,4,1,18,1.56,0.36
+2016-12-26,Watford,Crystal Palace,1,1,18,0.90,1.44
+2016-12-26,Arsenal,West Brom,1,0,18,1.85,0.64
+2016-12-26,Burnley,Middlesbrough,1,0,18,0.26,0.65
+2016-12-26,Chelsea,Bournemouth,3,0,18,1.60,0.61
+2016-12-26,Leicester,Everton,0,2,18,0.35,1.17
+2016-12-26,Man Utd,Sunderland,3,1,18,2.17,0.46
+2016-12-26,Swansea,West Ham,1,4,18,0.89,3.18
+2016-12-26,Hull,Man City,0,3,18,0.33,2.08
+2016-12-19,Everton,Liverpool,0,1,17,0.43,1.76
+2016-12-18,Bournemouth,Southampton,1,3,17,0.46,1.58
+2016-12-18,Man City,Arsenal,2,1,17,1.42,0.57
+2016-12-18,Spurs,Burnley,2,1,17,1.41,1.09
+2016-12-17,Crystal Palace,Chelsea,0,1,17,0.33,0.76
+2016-12-17,Middlesbrough,Swansea,3,0,17,1.60,0.56
+2016-12-17,Stoke,Leicester,2,2,17,2.35,1.17
+2016-12-17,Sunderland,Watford,1,0,17,1.06,1.01
+2016-12-17,West Ham,Hull,1,0,17,1.80,1.06
+2016-12-17,West Brom,Man Utd,0,2,17,0.56,0.92
+2016-12-14,Middlesbrough,Liverpool,0,3,16,0.15,2.00
+2016-12-14,Sunderland,Chelsea,0,1,16,0.44,1.14
+2016-12-14,West Ham,Burnley,1,0,16,1.56,0.86
+2016-12-14,Crystal Palace,Man Utd,1,2,16,0.66,1.19
+2016-12-14,Man City,Watford,2,0,16,1.52,0.46
+2016-12-14,Stoke,Southampton,0,0,16,0.31,0.68
+2016-12-14,Spurs,Hull,3,0,16,2.65,0.53
+2016-12-14,West Brom,Swansea,3,1,16,1.67,1.00
+2016-12-13,Bournemouth,Leicester,1,0,16,0.60,1.57
+2016-12-13,Everton,Arsenal,2,1,16,1.36,1.26
+2016-12-11,Chelsea,West Brom,1,0,15,0.52,0.20
+2016-12-11,Man Utd,Spurs,1,0,15,0.98,0.67
+2016-12-11,Southampton,Middlesbrough,1,0,15,1.62,0.46
+2016-12-11,Liverpool,West Ham,2,2,15,1.67,0.61
+2016-12-10,Watford,Everton,3,2,15,1.40,1.03
+2016-12-10,Arsenal,Stoke,3,1,15,1.48,1.21
+2016-12-10,Burnley,Bournemouth,3,2,15,2.01,0.94
+2016-12-10,Hull,Crystal Palace,3,3,15,2.02,1.40
+2016-12-10,Swansea,Sunderland,3,0,15,2.04,0.63
+2016-12-10,Leicester,Man City,4,2,15,2.44,0.91
+2016-12-05,Middlesbrough,Hull,1,0,14,1.82,0.21
+2016-12-04,Bournemouth,Liverpool,4,3,14,2.38,1.18
+2016-12-04,Everton,Man Utd,1,1,14,1.54,0.51
+2016-12-03,Man City,Chelsea,1,3,14,2.09,1.20
+2016-12-03,Crystal Palace,Southampton,3,0,14,2.06,0.71
+2016-12-03,Stoke,Burnley,2,0,14,1.06,0.72
+2016-12-03,Sunderland,Leicester,2,1,14,1.33,1.06
+2016-12-03,Spurs,Swansea,5,0,14,3.72,0.03
+2016-12-03,West Brom,Watford,3,1,14,1.10,1.38
+2016-12-03,West Ham,Arsenal,1,5,14,0.82,2.78
+2016-11-27,Watford,Stoke,0,1,13,0.51,0.66
+2016-11-27,Arsenal,Bournemouth,3,1,13,2.68,1.92
+2016-11-27,Man Utd,West Ham,1,1,13,1.35,0.70
+2016-11-27,Southampton,Everton,1,0,13,2.62,0.57
+2016-11-26,Burnley,Man City,1,2,13,0.44,2.11
+2016-11-26,Hull,West Brom,1,1,13,0.40,1.31
+2016-11-26,Leicester,Middlesbrough,2,2,13,1.91,0.40
+2016-11-26,Liverpool,Sunderland,2,0,13,1.89,0.27
+2016-11-26,Swansea,Crystal Palace,5,4,13,3.17,2.13
+2016-11-26,Chelsea,Spurs,2,1,13,1.17,0.39
+2016-11-21,West Brom,Burnley,4,0,12,1.31,0.53
+2016-11-20,Middlesbrough,Chelsea,0,1,12,0.52,1.58
+2016-11-19,Man Utd,Arsenal,1,1,12,0.48,0.54
+2016-11-19,Crystal Palace,Man City,1,2,12,0.40,1.30
+2016-11-19,Everton,Swansea,1,1,12,1.45,1.00
+2016-11-19,Southampton,Liverpool,0,0,12,0.09,1.58
+2016-11-19,Stoke,Bournemouth,0,1,12,1.50,1.16
+2016-11-19,Sunderland,Hull,3,0,12,0.89,1.17
+2016-11-19,Watford,Leicester,2,1,12,0.67,1.12
+2016-11-19,Spurs,West Ham,3,2,12,2.37,1.65
+2016-11-06,Arsenal,Spurs,1,1,11,0.63,1.12
+2016-11-06,Hull,Southampton,2,1,11,0.52,1.90
+2016-11-06,Liverpool,Watford,6,1,11,3.91,0.72
+2016-11-06,Swansea,Man Utd,1,3,11,0.48,0.93
+2016-11-06,Leicester,West Brom,1,2,11,0.59,0.73
+2016-11-05,Bournemouth,Sunderland,1,2,11,2.47,1.06
+2016-11-05,Burnley,Crystal Palace,3,2,11,2.11,1.92
+2016-11-05,Man City,Middlesbrough,1,1,11,2.33,0.20
+2016-11-05,West Ham,Stoke,1,1,11,0.38,0.76
+2016-11-05,Chelsea,Everton,5,0,11,1.81,0.01
+2016-10-31,Stoke,Swansea,3,1,10,2.02,1.03
+2016-10-30,Everton,West Ham,2,0,10,1.88,0.88
+2016-10-30,Southampton,Chelsea,0,2,10,0.39,1.07
+2016-10-29,Sunderland,Arsenal,1,4,10,0.80,2.32
+2016-10-29,Man Utd,Burnley,0,0,10,2.55,0.31
+2016-10-29,Middlesbrough,Bournemouth,2,0,10,1.35,1.44
+2016-10-29,Spurs,Leicester,1,1,10,1.59,0.69
+2016-10-29,Watford,Hull,1,0,10,1.07,0.23
+2016-10-29,West Brom,Man City,0,4,10,0.56,2.32
+2016-10-29,Crystal Palace,Liverpool,2,4,10,0.46,2.11
+2016-10-23,Man City,Southampton,1,1,9,1.08,0.53
+2016-10-23,Chelsea,Man Utd,4,0,9,2.10,0.69
+2016-10-22,Bournemouth,Spurs,0,0,9,0.49,0.70
+2016-10-22,Arsenal,Middlesbrough,0,0,9,0.67,1.45
+2016-10-22,Burnley,Everton,2,1,9,0.85,0.70
+2016-10-22,Hull,Stoke,0,2,9,0.66,0.97
+2016-10-22,Leicester,Crystal Palace,3,1,9,1.59,1.55
+2016-10-22,Swansea,Watford,0,0,9,1.25,0.45
+2016-10-22,West Ham,Sunderland,1,0,9,1.12,0.76
+2016-10-22,Liverpool,West Brom,2,1,9,2.15,0.64
+2016-10-17,Liverpool,Man Utd,0,0,8,0.25,0.50
+2016-10-16,Middlesbrough,Watford,0,1,8,0.49,0.08
+2016-10-16,Southampton,Burnley,3,1,8,3.94,0.96
+2016-10-15,Chelsea,Leicester,3,0,8,2.91,0.17
+2016-10-15,Arsenal,Swansea,3,2,8,3.28,1.64
+2016-10-15,Bournemouth,Hull,6,1,8,2.73,0.36
+2016-10-15,Man City,Everton,1,1,8,2.52,0.14
+2016-10-15,Stoke,Sunderland,2,0,8,2.15,0.55
+2016-10-15,West Brom,Spurs,1,1,8,1.22,1.24
+2016-10-15,Crystal Palace,West Ham,0,1,8,1.82,0.82
+2016-10-02,Man Utd,Stoke,1,1,7,2.63,1.12
+2016-10-02,Leicester,Southampton,0,0,7,0.42,0.86
+2016-10-02,Spurs,Man City,2,0,7,1.59,0.85
+2016-10-02,Burnley,Arsenal,0,1,7,0.57,1.73
+2016-10-01,Swansea,Liverpool,1,2,7,2.48,1.89
+2016-10-01,Hull,Chelsea,0,2,7,0.25,1.86
+2016-10-01,Sunderland,West Brom,1,1,7,1.11,0.82
+2016-10-01,Watford,Bournemouth,2,2,7,1.15,1.27
+2016-10-01,West Ham,Middlesbrough,1,1,7,0.83,0.80
+2016-09-30,Everton,Crystal Palace,1,1,7,1.08,0.45
+2016-09-26,Burnley,Watford,2,0,6,0.53,0.73
+2016-09-25,West Ham,Southampton,0,3,6,0.65,2.78
+2016-09-24,Man Utd,Leicester,4,1,6,2.30,0.27
+2016-09-24,Bournemouth,Everton,1,0,6,0.65,1.08
+2016-09-24,Liverpool,Hull,5,1,6,4.35,0.15
+2016-09-24,Middlesbrough,Spurs,1,2,6,0.34,1.32
+2016-09-24,Stoke,West Brom,1,1,6,0.92,0.25
+2016-09-24,Sunderland,Crystal Palace,2,3,6,1.42,1.67
+2016-09-24,Swansea,Man City,1,3,6,1.04,2.41
+2016-09-24,Arsenal,Chelsea,3,0,6,1.55,0.57
+2016-09-18,Watford,Man Utd,3,1,5,1.63,1.32
+2016-09-18,Crystal Palace,Stoke,4,1,5,1.23,1.12
+2016-09-18,Southampton,Swansea,1,0,5,2.01,0.46
+2016-09-18,Spurs,Sunderland,1,0,5,2.36,0.90
+2016-09-17,Hull,Arsenal,1,4,5,0.91,3.40
+2016-09-17,Leicester,Burnley,3,0,5,1.86,0.43
+2016-09-17,Man City,Bournemouth,4,0,5,3.17,0.36
+2016-09-17,West Brom,West Ham,4,2,5,1.82,2.22
+2016-09-17,Everton,Middlesbrough,3,1,5,1.10,0.17
+2016-09-16,Chelsea,Liverpool,1,2,5,1.09,1.32
+2016-09-12,Sunderland,Everton,0,3,4,0.97,2.66
+2016-09-11,Swansea,Chelsea,2,2,4,1.15,2.05
+2016-09-10,Man Utd,Man City,1,2,4,0.94,1.76
+2016-09-10,Arsenal,Southampton,2,1,4,1.77,1.10
+2016-09-10,Bournemouth,West Brom,1,0,4,0.92,1.39
+2016-09-10,Burnley,Hull,1,1,4,0.42,0.85
+2016-09-10,Middlesbrough,Crystal Palace,1,2,4,0.57,1.05
+2016-09-10,Stoke,Spurs,0,4,4,0.95,2.59
+2016-09-10,West Ham,Watford,2,4,4,1.24,1.73
+2016-09-10,Liverpool,Leicester,4,1,4,2.59,1.15
+2016-08-28,West Brom,Middlesbrough,0,0,3,0.65,0.37
+2016-08-28,Man City,West Ham,3,1,3,3.01,1.01
+2016-08-27,Spurs,Liverpool,1,1,3,0.55,1.80
+2016-08-27,Chelsea,Burnley,3,0,3,2.48,0.17
+2016-08-27,Crystal Palace,Bournemouth,1,1,3,2.49,0.91
+2016-08-27,Everton,Stoke,1,0,3,2.17,0.18
+2016-08-27,Leicester,Swansea,2,1,3,2.32,0.31
+2016-08-27,Southampton,Sunderland,1,1,3,0.57,1.30
+2016-08-27,Watford,Arsenal,1,3,3,1.01,1.90
+2016-08-27,Hull,Man Utd,0,1,3,0.25,2.31
+2016-08-21,Sunderland,Middlesbrough,1,2,2,1.37,0.80
+2016-08-21,West Ham,Bournemouth,1,0,2,1.58,0.37
+2016-08-20,Stoke,Man City,1,4,2,1.22,2.03
+2016-08-20,Burnley,Liverpool,2,0,2,0.18,0.88
+2016-08-20,Swansea,Hull,0,2,2,1.07,2.04
+2016-08-20,Spurs,Crystal Palace,1,0,2,2.11,0.33
+2016-08-20,Watford,Chelsea,1,2,2,0.75,1.64
+2016-08-20,West Brom,Everton,1,2,2,1.89,1.72
+2016-08-20,Leicester,Arsenal,0,0,2,0.52,0.49
+2016-08-19,Man Utd,Southampton,2,0,2,1.28,0.57
+2016-08-15,Chelsea,West Ham,2,1,1,1.36,0.42
+2016-08-14,Bournemouth,Man Utd,1,3,1,0.49,1.79
+2016-08-14,Arsenal,Liverpool,3,4,1,1.10,1.55
+2016-08-13,Hull,Leicester,2,1,1,0.69,2.30
+2016-08-13,Burnley,Swansea,0,1,1,0.98,1.61
+2016-08-13,Crystal Palace,West Brom,0,1,1,0.93,0.64
+2016-08-13,Everton,Spurs,1,1,1,0.74,1.05
+2016-08-13,Middlesbrough,Stoke,1,1,1,1.69,0.45
+2016-08-13,Southampton,Watford,1,1,1,0.88,0.17
+2016-08-13,Man City,Sunderland,2,1,1,1.83,1.03
