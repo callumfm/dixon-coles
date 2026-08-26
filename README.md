@@ -1,5 +1,9 @@
 # dixon-coles
 
+[![CI](https://github.com/callumfm/dixon-coles/actions/workflows/ci.yml/badge.svg)](https://github.com/callumfm/dixon-coles/actions/workflows/ci.yml)
+[![Docs](https://github.com/callumfm/dixon-coles/actions/workflows/docs.yml/badge.svg)](https://callumfm.github.io/dixon-coles/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 [Dixon-Coles](https://www.jstor.org/stable/2986290) is a statistical model for predicting football match scores. It uses a refined Poisson model to rate every team's attack and defence from past results, then turns any two of those ratings into a distribution over scorelines i.e. the chance of 0-0, 1-0, and so on. The score probabilities can then be summed to find the probability of a home win, draw and away win.
 
 This repo is a fast Python implementation of the Dixon-Coles model which could be used for things such as predicting clean sheet probabilities for Fantasy Premier League. This model has a couple of features which differ from the standard implementation:
