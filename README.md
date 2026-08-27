@@ -56,7 +56,7 @@ probability score (default) and mean absolute goal error.
 ```
 
 ### Tune
-Grid-search lambda0, xi and xg_weight on early-season holdouts.
+Grid-search lambda0 (L2 regularisation), xi (time decay) and xg_weight on early-season holdouts.
 `tune_hyperparams` trains through gameweek 3 and scores gameweeks 4-7 of every season 
 after the first, so it tunes for the case the shrinkage exists for rather than full-season 
 hindsight.
